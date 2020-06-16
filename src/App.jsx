@@ -5,7 +5,6 @@ import { ReactComponent as LogoSvg } from "./assets/img/logo.svg";
 import Contacts from "./components/Contacts/Contacts";
 
 import "./App.scss";
-import Contacts from "./components/Contacts/Contacts";
 
 class App extends React.Component {
   render() {
