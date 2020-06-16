@@ -1,6 +1,8 @@
 import React from "react";
+
 import Contact from "../Contact/Contact";
 
+import "./Contacts.scss";
 class Contacts extends React.Component {
   render() {
     return (
